@@ -1,0 +1,9 @@
+from bs4 import BeautifulSoup
+
+urllib2, wikilyrics
+
+Spotipy
+
+PIL
+
+etc...
